@@ -2,7 +2,7 @@
   {
     "ru_title": "Простой набор",
     "en_title": "Simple bundle",
-    "photo_url": "https://raw.githubusercontent.com/Ktveh/tropica-cafe-merge-vk-IAP/main/icons/Bundle.png",
+    "photo_url": "https://raw.githubusercontent.com/Cromwill/MyCaffe_VK_Build_IAP/main/icons/Bundle.png",
     "item_id": "SimpleBundle",
     "price": 2,
     "discount": 0,
@@ -11,7 +11,7 @@
   {
     "ru_title": "Крутой набор",
     "en_title": "Cool bundle",
-    "photo_url": "https://raw.githubusercontent.com/Ktveh/tropica-cafe-merge-vk-IAP/main/icons/Bundle.png",
+    "photo_url": "https://raw.githubusercontent.com/Cromwill/MyCaffe_VK_Build_IAP/main/icons/Bundle.png",
     "item_id": "CoolBundle",
     "price": 3,
     "discount": 0,
@@ -20,7 +20,7 @@
   {
     "ru_title": "Мега набор",
     "en_title": "Mega bundle",
-    "photo_url": "https://raw.githubusercontent.com/Ktveh/tropica-cafe-merge-vk-IAP/main/icons/Bundle.png",
+    "photo_url": "https://raw.githubusercontent.com/Cromwill/MyCaffe_VK_Build_IAP/main/icons/Bundle.png",
     "item_id": "MegaBundle",
     "price": 6,
     "discount": 0,
@@ -29,7 +29,7 @@
   {
     "ru_title": "5 кристаллов",
     "en_title": "5 gems",
-    "photo_url": "https://raw.githubusercontent.com/Ktveh/tropica-cafe-merge-vk-IAP/main/icons/Gem5.png",
+    "photo_url": "https://raw.githubusercontent.com/Cromwill/MyCaffe_VK_Build_IAP/main/icons/Gem5.png",
     "item_id": "Gem5",
     "price": 1,
     "discount": 0,
@@ -38,7 +38,7 @@
   {
     "ru_title": "10 кристаллов",
     "en_title": "10 gems",
-    "photo_url": "https://raw.githubusercontent.com/Ktveh/tropica-cafe-merge-vk-IAP/main/icons/Gem10.png",
+    "photo_url": "https://raw.githubusercontent.com/Cromwill/MyCaffe_VK_Build_IAP/main/icons/Gem10.png",
     "item_id": "Gem10",
     "price": 2,
     "discount": 0,
@@ -47,7 +47,7 @@
   {
     "ru_title": "15 кристаллов",
     "en_title": "15 gems",
-    "photo_url": "https://raw.githubusercontent.com/Ktveh/tropica-cafe-merge-vk-IAP/main/icons/Gem15.png",
+    "photo_url": "https://raw.githubusercontent.com/Cromwill/MyCaffe_VK_Build_IAP/main/icons/Gem15.png",
     "item_id": "Gem15",
     "price": 3,
     "discount": 0,
@@ -56,7 +56,7 @@
   {
     "ru_title": "20 кристаллов",
     "en_title": "20 gems",
-    "photo_url": "https://raw.githubusercontent.com/Ktveh/tropica-cafe-merge-vk-IAP/main/icons/Gem20.png",
+    "photo_url": "https://raw.githubusercontent.com/Cromwill/MyCaffe_VK_Build_IAP/main/icons/Gem20.png",
     "item_id": "Gem20",
     "price": 4,
     "discount": 0,
@@ -65,7 +65,7 @@
   {
     "ru_title": "30 кристаллов",
     "en_title": "30 gems",
-    "photo_url": "https://raw.githubusercontent.com/Ktveh/tropica-cafe-merge-vk-IAP/main/icons/Gem30.png",
+    "photo_url": "https://raw.githubusercontent.com/Cromwill/MyCaffe_VK_Build_IAP/main/icons/Gem30.png",
     "item_id": "Gem30",
     "price": 5,
     "discount": 0,
@@ -74,7 +74,7 @@
   {
     "ru_title": "50 кристаллов",
     "en_title": "50 gems",
-    "photo_url": "https://raw.githubusercontent.com/Ktveh/tropica-cafe-merge-vk-IAP/main/icons/Gem50.png",
+    "photo_url": "https://raw.githubusercontent.com/Cromwill/MyCaffe_VK_Build_IAP/main/icons/Gem50.png",
     "item_id": "Gem50",
     "price": 9,
     "discount": 0,

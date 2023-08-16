@@ -4,7 +4,7 @@
     "en_title": "Simple bundle",
     "photo_url": "https://raw.githubusercontent.com/Ktveh/tropica-cafe-merge-vk-IAP/main/icons/Bundle.png",
     "item_id": "SimpleBundle",
-    "price": 5,
+    "price": 2,
     "discount": 0,
     "expiration": 3600
   },
@@ -13,7 +13,7 @@
     "en_title": "Cool bundle",
     "photo_url": "https://raw.githubusercontent.com/Ktveh/tropica-cafe-merge-vk-IAP/main/icons/Bundle.png",
     "item_id": "CoolBundle",
-    "price": 10,
+    "price": 3,
     "discount": 0,
     "expiration": 3600
   },
@@ -22,7 +22,7 @@
     "en_title": "Mega bundle",
     "photo_url": "https://raw.githubusercontent.com/Ktveh/tropica-cafe-merge-vk-IAP/main/icons/Bundle.png",
     "item_id": "MegaBundle",
-    "price": 15,
+    "price": 6,
     "discount": 0,
     "expiration": 3600
   },
@@ -76,7 +76,7 @@
     "en_title": "50 gems",
     "photo_url": "https://raw.githubusercontent.com/Ktveh/tropica-cafe-merge-vk-IAP/main/icons/Gem50.png",
     "item_id": "Gem50",
-    "price": 6,
+    "price": 9,
     "discount": 0,
     "expiration": 3600
   }
